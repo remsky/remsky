@@ -10,9 +10,8 @@ Senior data scientist. Five years in insurtech, earlier clinical research in rad
     </td>
     <td colspan="3" width="50%" valign="top">
       <a href="https://github.com/remsky/inno-kokoro"><img src="https://repository-images.githubusercontent.com/1357917270/8de2cf26-8747-4ec6-9f21-fb859284b70e" width="100%" alt="inno-kokoro preview"></a>
-      <br><b>inno-kokoro</b>: zero-shot voice tuner for Kokoro-82M.
-      <br><a href="https://huggingface.co/spaces/remsky/kokoro-clone-tune-generator"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Try%20on-Spaces-purple" alt="Try on Hugging Face Spaces"></a>
-      <a href="https://pypi.org/project/inno-kokoro/"><img src="https://img.shields.io/pypi/v/inno-kokoro?logo=pypi&logoColor=white&color=3775A9" alt="PyPI version"></a>
+      <br><b>inno-kokoro</b>: zero-shot voices for Kokoro-82M.
+      <br><a href="https://pypi.org/project/inno-kokoro/"><img src="https://img.shields.io/pypi/v/inno-kokoro?logo=pypi&logoColor=white&color=3775A9" alt="PyPI version"></a>
       <a href="https://remsky.art/writeups/kokoro-fastapi/inno-clone"><img src="https://img.shields.io/badge/write--up-remsky.art-0F766E" alt="Write-up on remsky.art"></a>
     </td>
   </tr>
@@ -20,8 +19,7 @@ Senior data scientist. Five years in insurtech, earlier clinical research in rad
     <td colspan="2" width="33%" valign="top">
       <a href="https://comics.remsky.art"><img src="https://comics.remsky.art/og.jpg" width="100%" alt="Comic Chat Web preview"></a>
       <br><b>Comic Chat Web</b>: Modern Port.
-      <br><a href="https://comics.remsky.art/studio"><img src="https://img.shields.io/badge/studio-create%20a%20strip-E8590C" alt="Create a strip in the studio"></a>
-      <a href="https://comics.remsky.art/agent-skill"><img src="https://img.shields.io/badge/agent%20skill-7C3AED" alt="Agent skill"></a>
+      <br><a href="https://comics.remsky.art/agent-skill"><img src="https://img.shields.io/badge/agent%20skill-7C3AED" alt="Agent skill"></a>
       <a href="https://github.com/remsky/comic-chat-web"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub repository"></a>
     </td>
     <td colspan="2" width="33%" valign="top">
@@ -38,4 +36,5 @@ Senior data scientist. Five years in insurtech, earlier clinical research in rad
     </td>
   </tr>
 </table>
+
 
