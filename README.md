@@ -1,4 +1,5 @@
-Senior data scientist in Calgary. Five years in insurtech, earlier clinical research in radiotherapy. More at [remsky.art](https://remsky.art).
+Senior data scientist. Five years in insurtech, earlier clinical research in radiotherapy. 
+More at [remsky.art](https://remsky.art).
 
 <table>
   <tr>
